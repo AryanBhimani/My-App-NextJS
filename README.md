@@ -40,4 +40,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - [Linkedin] (https://www.linkedin.com/in/aryanbhimani/)
 - [Github] (https://github.com/AryanBhimani/)
 - [Twitter] (https://x.com/aryan46022)
-
